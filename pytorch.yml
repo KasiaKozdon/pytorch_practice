@@ -1,0 +1,9 @@
+name: pytorch_env
+
+channels:
+- default
+- conda-forge
+
+dependencies:
+- pytorch
+- torchvision
